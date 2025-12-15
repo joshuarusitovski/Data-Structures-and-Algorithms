@@ -1,0 +1,5 @@
+C:\Users\joshu\Documents\SIT221\3.1P\Task 3.1P\obj\Debug\net6.0\Task 3.1P.csproj.AssemblyReference.cache
+C:\Users\joshu\Documents\SIT221\3.1P\Task 3.1P\obj\Debug\net6.0\Task 3.1P.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joshu\Documents\SIT221\3.1P\Task 3.1P\obj\Debug\net6.0\Task 3.1P.AssemblyInfoInputs.cache
+C:\Users\joshu\Documents\SIT221\3.1P\Task 3.1P\obj\Debug\net6.0\Task 3.1P.AssemblyInfo.cs
+C:\Users\joshu\Documents\SIT221\3.1P\Task 3.1P\obj\Debug\net6.0\Task 3.1P.csproj.CoreCompileInputs.cache

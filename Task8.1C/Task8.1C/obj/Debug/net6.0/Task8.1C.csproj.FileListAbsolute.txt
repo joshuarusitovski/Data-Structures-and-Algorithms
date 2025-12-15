@@ -1,0 +1,15 @@
+C:\Users\joshu\Documents\SIT221\Task8.1C\Task8.1C\bin\Debug\net6.0\Task8.1C.exe
+C:\Users\joshu\Documents\SIT221\Task8.1C\Task8.1C\bin\Debug\net6.0\Task8.1C.deps.json
+C:\Users\joshu\Documents\SIT221\Task8.1C\Task8.1C\bin\Debug\net6.0\Task8.1C.runtimeconfig.json
+C:\Users\joshu\Documents\SIT221\Task8.1C\Task8.1C\bin\Debug\net6.0\Task8.1C.dll
+C:\Users\joshu\Documents\SIT221\Task8.1C\Task8.1C\bin\Debug\net6.0\Task8.1C.pdb
+C:\Users\joshu\Documents\SIT221\Task8.1C\Task8.1C\obj\Debug\net6.0\Task8.1C.csproj.AssemblyReference.cache
+C:\Users\joshu\Documents\SIT221\Task8.1C\Task8.1C\obj\Debug\net6.0\Task8.1C.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joshu\Documents\SIT221\Task8.1C\Task8.1C\obj\Debug\net6.0\Task8.1C.AssemblyInfoInputs.cache
+C:\Users\joshu\Documents\SIT221\Task8.1C\Task8.1C\obj\Debug\net6.0\Task8.1C.AssemblyInfo.cs
+C:\Users\joshu\Documents\SIT221\Task8.1C\Task8.1C\obj\Debug\net6.0\Task8.1C.csproj.CoreCompileInputs.cache
+C:\Users\joshu\Documents\SIT221\Task8.1C\Task8.1C\obj\Debug\net6.0\Task8.1C.dll
+C:\Users\joshu\Documents\SIT221\Task8.1C\Task8.1C\obj\Debug\net6.0\refint\Task8.1C.dll
+C:\Users\joshu\Documents\SIT221\Task8.1C\Task8.1C\obj\Debug\net6.0\Task8.1C.pdb
+C:\Users\joshu\Documents\SIT221\Task8.1C\Task8.1C\obj\Debug\net6.0\Task8.1C.genruntimeconfig.cache
+C:\Users\joshu\Documents\SIT221\Task8.1C\Task8.1C\obj\Debug\net6.0\ref\Task8.1C.dll

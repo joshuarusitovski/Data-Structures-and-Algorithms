@@ -1,0 +1,15 @@
+C:\Users\joshu\Documents\SIT221\1.1P\Task 1.1P\bin\Debug\net6.0\Task 1.1P.exe
+C:\Users\joshu\Documents\SIT221\1.1P\Task 1.1P\bin\Debug\net6.0\Task 1.1P.deps.json
+C:\Users\joshu\Documents\SIT221\1.1P\Task 1.1P\bin\Debug\net6.0\Task 1.1P.runtimeconfig.json
+C:\Users\joshu\Documents\SIT221\1.1P\Task 1.1P\bin\Debug\net6.0\Task 1.1P.dll
+C:\Users\joshu\Documents\SIT221\1.1P\Task 1.1P\bin\Debug\net6.0\Task 1.1P.pdb
+C:\Users\joshu\Documents\SIT221\1.1P\Task 1.1P\obj\Debug\net6.0\Task 1.1P.csproj.AssemblyReference.cache
+C:\Users\joshu\Documents\SIT221\1.1P\Task 1.1P\obj\Debug\net6.0\Task 1.1P.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joshu\Documents\SIT221\1.1P\Task 1.1P\obj\Debug\net6.0\Task 1.1P.AssemblyInfoInputs.cache
+C:\Users\joshu\Documents\SIT221\1.1P\Task 1.1P\obj\Debug\net6.0\Task 1.1P.AssemblyInfo.cs
+C:\Users\joshu\Documents\SIT221\1.1P\Task 1.1P\obj\Debug\net6.0\Task 1.1P.csproj.CoreCompileInputs.cache
+C:\Users\joshu\Documents\SIT221\1.1P\Task 1.1P\obj\Debug\net6.0\Task 1.1P.dll
+C:\Users\joshu\Documents\SIT221\1.1P\Task 1.1P\obj\Debug\net6.0\refint\Task 1.1P.dll
+C:\Users\joshu\Documents\SIT221\1.1P\Task 1.1P\obj\Debug\net6.0\Task 1.1P.pdb
+C:\Users\joshu\Documents\SIT221\1.1P\Task 1.1P\obj\Debug\net6.0\Task 1.1P.genruntimeconfig.cache
+C:\Users\joshu\Documents\SIT221\1.1P\Task 1.1P\obj\Debug\net6.0\ref\Task 1.1P.dll
